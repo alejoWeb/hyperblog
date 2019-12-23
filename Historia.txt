@@ -1,0 +1,3 @@
+Este es la historia de Alejo
+
+Alejo está aprendiento Git y GitHub como debe ser por primera vez
