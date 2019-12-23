@@ -1,3 +1,5 @@
 Este es la historia de Alejo
 
 Alejo está aprendiento Git y GitHub como debe ser por primera vez
+
+estoy agregando la primera modificación: tengo 27 años y está por terminar el año
