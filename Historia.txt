@@ -8,3 +8,5 @@ estoy agregando la primera modificación: tengo 27 años y está por terminar el
 
 Actualización: retomé este archivo el 20 de enero pero del 2020.
 Este año me volveré el máster del git y github.
+
+La verdad es que hace días no practiba con este archivo.
