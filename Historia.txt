@@ -4,4 +4,7 @@ Alejo está aprendiento Git y GitHub como debe ser por primera vez
 
 Hoy hablaremos de su vida y obra maestra.
 
-estoy agregando la primera modificación: tengo 27 años y está por terminar el año
+estoy agregando la primera modificación: tengo 27 años y está por terminar el año.
+
+Actualización: retomé este archivo el 20 de enero pero del 2020.
+Este año me volveré el máster del git y github.
