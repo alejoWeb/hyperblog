@@ -8,3 +8,5 @@ EN EL CURSO DE GIT Y GITHUB DE PLATZI
 escribo de nuevo luego de haber hecho un reset hard.
 ---
 Continúo contando mi proceso para convertirme en un desarrollador web profesional.
+
+Para convertirme en un desarrollador web, tendré que estudiar fuerte y completar todos los cursos de la Escuela de Desarrollo Web.
